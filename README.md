@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mnzasa-files
-- 👀 I’m interested in Minectaft and Discord
-- 🌱 I’m currently learning coding Bots
-- 📫 How to reach me discord: @mnzasa#2422 
+- 👀 I’m interested in Minecraft and Discord
+- 🌱 I’m currently learning coding Discord Bots
+- 📫 How to reach me: discord: @mnzasa#2422 
 
 <!---
 mnzasa-files/mnzasa-files is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
